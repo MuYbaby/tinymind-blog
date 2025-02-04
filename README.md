@@ -1,0 +1,2 @@
+# tinymind-blog
+blog
